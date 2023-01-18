@@ -43,11 +43,27 @@
       <option name="project" value="LOCAL" />
       <updated>1674007580949</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Passing a string to our hello method">
+      <created>1674008043283</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1674008043283</updated>
+    </task>
+    <task id="LOCAL-00003" summary="added an int and a string to our hello(). Requires two types of parameters as well">
+      <created>1674008237024</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1674008237024</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Calling the hello() three times" />
-    <option name="LAST_COMMIT_MESSAGE" value="Calling the hello() three times" />
+    <MESSAGE value="Passing a string to our hello method" />
+    <MESSAGE value="added an int and a string to our hello(). Requires two types of parameters as well" />
+    <option name="LAST_COMMIT_MESSAGE" value="added an int and a string to our hello(). Requires two types of parameters as well" />
   </component>
 </project>
