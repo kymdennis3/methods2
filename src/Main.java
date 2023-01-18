@@ -5,8 +5,8 @@ public class Main {
         int x = 5;
         int y = 8;
 
-        int z = add(x,y);
-        System.out.println(z);
+
+        System.out.println(add(x,y));
     }
     static int add(int x, int y){
         int z = x+y;
